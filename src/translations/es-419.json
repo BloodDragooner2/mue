@@ -199,7 +199,7 @@
             "autocomplete": "Autocompletado",
             "autocomplete_provider": "Proveedor del autocompletado",
             "voice_search": "Búsqueda por voz",
-            "dropdown": "Listado de búsqueda
+            "dropdown": "Listado de búsqueda"
           },
           "weather": {
             "title": "Clima",
@@ -373,7 +373,7 @@
               }
             },
             "contact_us": "Contáctanos",
-            "support_mue": "Apoya Mue",
+            "support_mue": "Apoya a Mue",
             "resources_used": {
               "title": "Recursos usados",
               "bg_images": "Fondos sin conexión"
@@ -402,7 +402,7 @@
           "version": "Versión",
           "author": "Autor",
           "buttons": {
-            "addtomue": "Añadir a Mue",
+            "addtomue": "Agregar a Mue",
             "remove": "Desinstalar",
             "update_addon": "Actualizar complemento"
           },
@@ -439,7 +439,7 @@
         "sort": {
           "title": "Ordenar",
           "newest": "Instalados (Nuevos)",
-          "oldest": "Instalado (sAntiguos)",
+          "oldest": "Instalados (Antiguos)",
           "a_z": "Alfabético (A-Z)",
           "z_a": "Alfabético (Z-A)"
         },
